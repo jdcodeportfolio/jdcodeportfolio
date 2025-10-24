@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi There! 👋
 
-My name is Josh, and I have always enjoyed science.
+My name is Josh, and I have always enjoyed science.</br>
 Carefully analyzing the world aorund me and finding solutions to problems is something I enjoy.
 
 <!--
