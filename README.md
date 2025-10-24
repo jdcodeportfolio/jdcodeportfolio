@@ -1,7 +1,7 @@
 ## Hi There! 👋
 
 My name is Josh, and I have always enjoyed science.</br>
-Carefully analyzing the world aorund me and finding solutions to problems is something I enjoy.
+Carefully analyzing the world around me and finding solutions to problems is something I enjoy.
 
 <!--
 **jdcodeportfolio/jdcodeportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
